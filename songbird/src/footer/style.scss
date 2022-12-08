@@ -1,0 +1,33 @@
+.rss {
+  height: 50px;
+  width: 100px;
+}
+.footer {
+  background: #ff6d59;
+  color: #ffffff;
+  flex: 0 0 auto;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0px 0px 10px 10px rgba(223, 255, 96, 0.15);
+  flex-shrink: 0;
+  order: 2;
+}
+.block-footer {
+  width: 77vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+.git {
+  text-decoration: none;
+  color: #ffffff;
+}
+.git:hover {
+  color: #fff384;
+}
